@@ -20,6 +20,7 @@ along with The Arduino WiFiEsp library.  If not, see
 #define EspDrv_h
 
 #include "Stream.h"
+#include <stdarg.h>
 #include "IPAddress.h"
 
 
